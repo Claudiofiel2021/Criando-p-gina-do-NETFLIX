@@ -1,2 +1,2 @@
-# Criando-p-gina-do-NETFLIX
-Minha primeira clonagem de página
+# Criando página do NETFLIX
+Minha primeira clonagem de página.
